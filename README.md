@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Clasificador neuronal para la detección de Glaucoma. encontramos diferentes modelos basados en EfficientNet B0, preentrenado con los pesos de ImageNet, ofreciendo distintas opciones al sustituir su capa de clasificación.
+Clasificador neuronal para la detección de Glaucoma. Encontramos diferentes modelos basados en EfficientNet B0, preentrenado con los pesos de ImageNet, ofreciendo distintas opciones al sustituir su capa de clasificación.
 También podemos encontrar un modelo sin Transfer Learning, con una red neuronal propia.
 Disponemos de 10 particiones de datos sobre las que se aplicará una técnica de cross validation intentando reducir los sesgos y variaciones estadísticas en función de cómo se ha realizado la partición.
 En el archivo **pdf/PRAC_1_Ivan_Maseda_Zurdo.pdf** encontramos una explicación más detallada del proceso y los distintos modelos.
