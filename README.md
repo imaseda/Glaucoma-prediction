@@ -18,4 +18,10 @@ La actividad ha sido realizada por **Iván Maseda Zurdo**.
 
 ## Ficheros del código fuente
 
-**src/PEC3_Ivan_Maseda.Rmd**: este fichero contiene el código en lenguaje R para la carga de los datasets original, la carga de librerías, genera los graficos requeridos.
+En la carpeta **src/** encontramos los distintos modelos creados.
+  
+## Nota
+
+Los resultados de los modelos entrenados no han sido añadidos al repositorío por limitación de almacenamiento.
+  
+En el archivo **pdf/PRAC_1_Ivan_Maseda_Zurdo.pdf** encontramos una explicación más detallada del proceso en los diferentes modelos.
