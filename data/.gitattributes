@@ -1,0 +1,2 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+processed_air_quality_madrid_2001_2022.csv filter=lfs diff=lfs merge=lfs -text
